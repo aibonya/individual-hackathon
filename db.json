@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "title": "Родбанд",
+      "description": "бла бла бла ",
+      "price": 1234,
+      "image": "https://allmix.kg/images/kley-dlya-plitki-768x570.jpg",
+      "id": 1
+    },
+    {
+      "title": "Клей керамогранитный плиточный ",
+      "description": "апролдрпоррролдллор аыовра рывла ылв алдыра лдыфр адлыор алыва ",
+      "price": 300,
+      "image": "https://allmix.kg/images/klej-dlya-plitki-bolshogo-razmera_14.jpg",
+      "id": 2
+    },
+    {
+      "title": "гипсовая штукатурка",
+      "description": "дфывоадл офыдло адыфлоа дыло аыдфл оаыфдж алофдж",
+      "price": 500,
+      "image": "https://allmix.kg/images/gipsovaya-shtukaturka.jpg",
+      "id": 3
+    },
+    {
+      "title": "Наливной пол ",
+      "description": "фдывлаофды оадыло адылфов аджфыло ж",
+      "price": 345,
+      "image": "https://allmix.kg/images/rocketlauncher/pages/blog/1_n-pol_1.jpg",
+      "id": 4
+    }
+  ]
+}
