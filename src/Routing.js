@@ -3,6 +3,7 @@ import { Navigate, Route, Routes } from "react-router-dom";
 import AboutUs from "./components/AboutUs/AboutUs";
 import AddProductForm from "./components/AddProduct/AddProductForm";
 import Cart from "./components/Cart/Cart";
+import Contacts from "./components/Contacts/Contacts";
 import EditProductForm from "./components/EditProductForm/EditProductForm";
 import HomePage from "./components/HomePage/HomePage";
 import LoginForm from "./components/LoginForm/LoginForm";
@@ -32,7 +33,7 @@ const Routing = () => {
         element={isAdmin ? <EditProductForm /> : <Navigate replace to="*" />}
       />
       <Route path="/cart" element={<Cart />} />
-      {/* <Route path="*" element={<NotFound />} /> */}
+      <Route path="/contacts" element={<Contacts />} />
     </Routes>
   );
 };

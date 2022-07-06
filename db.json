@@ -27,6 +27,13 @@
       "price": 345,
       "image": "https://allmix.kg/images/rocketlauncher/pages/blog/1_n-pol_1.jpg",
       "id": 4
+    },
+    {
+      "title": "fsdf",
+      "description": "sdfsd",
+      "price": 2342,
+      "image": "https://allmix.kg/images/kley-dlya-plitki-768x570.jpg",
+      "id": 5
     }
   ]
 }
